@@ -21,6 +21,11 @@
 ![0.3.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/0.3.png?raw=true)
 
 4. Авторизуйте агент.
+
+***Ответ:***
+
+![0.4.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/0.4.png?raw=true)
+
 5. Сделайте fork [репозитория](https://github.com/aragastmatb/example-teamcity).
 6. Создайте VM (2CPU4RAM) и запустите [playbook](./infrastructure).
 
