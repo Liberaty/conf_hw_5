@@ -104,6 +104,11 @@
 ![1.10.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.10.png?raw=true)
 
 11. Дополните тест для нового метода на поиск слова `hunter` в новой реплике.
+
+***Ответ:***
+
+![1.11.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.11.png?raw=true)
+
 12. Сделайте push всех изменений в новую ветку репозитория.
 13. Убедитесь, что сборка самостоятельно запустилась, тесты прошли успешно.
 14. Внесите изменения из произвольной ветки `feature/add_reply` в `master` через `Merge`.
