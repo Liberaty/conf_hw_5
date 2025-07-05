@@ -30,6 +30,7 @@
 
 ***Ответ:***
 
+[New fork](https://github.com/Liberaty/example-teamcity).
 ![0.5.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/0.5.png?raw=true)
 
 6. Создайте VM (2CPU4RAM) и запустите [playbook](./infrastructure).
