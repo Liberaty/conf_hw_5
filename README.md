@@ -74,8 +74,23 @@
 ![1.5.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.5.png?raw=true)
 
 6. В pom.xml необходимо поменять ссылки на репозиторий и nexus.
+
+***Ответ:***
+
+![1.6.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.6.png?raw=true)
+
 7. Запустите сборку по master, убедитесь, что всё прошло успешно и артефакт появился в nexus.
+
+***Ответ:***
+
+![1.7.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.7.png?raw=true)
+
 8. Мигрируйте `build configuration` в репозиторий.
+
+***Ответ:***
+
+![1.8.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.8.png?raw=true)
+
 9. Создайте отдельную ветку `feature/add_reply` в репозитории.
 10. Напишите новый метод для класса Welcomer: метод должен возвращать произвольную реплику, содержащую слово `hunter`.
 11. Дополните тест для нового метода на поиск слова `hunter` в новой реплике.
