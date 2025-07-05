@@ -43,7 +43,17 @@
 ## Основная часть
 
 1. Создайте новый проект в teamcity на основе fork.
+
+***Ответ:***
+
+![1.1.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.1.png?raw=true)
+
 2. Сделайте autodetect конфигурации.
+
+***Ответ:***
+
+![1.2.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.2.png?raw=true)
+
 3. Сохраните необходимые шаги, запустите первую сборку master.
 4. Поменяйте условия сборки: если сборка по ветке `master`, то должен происходит `mvn clean deploy`, иначе `mvn clean test`.
 5. Для deploy будет необходимо загрузить [settings.xml](./teamcity/settings.xml) в набор конфигураций maven у teamcity, предварительно записав туда креды для подключения к nexus.
