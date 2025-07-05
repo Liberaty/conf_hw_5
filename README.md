@@ -62,7 +62,17 @@
 ![1.3.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.3.png?raw=true)
 
 4. Поменяйте условия сборки: если сборка по ветке `master`, то должен происходит `mvn clean deploy`, иначе `mvn clean test`.
+
+***Ответ:***
+
+![1.4.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.4.png?raw=true)
+
 5. Для deploy будет необходимо загрузить [settings.xml](./teamcity/settings.xml) в набор конфигураций maven у teamcity, предварительно записав туда креды для подключения к nexus.
+
+***Ответ:***
+
+![1.5.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.5.png?raw=true)
+
 6. В pom.xml необходимо поменять ссылки на репозиторий и nexus.
 7. Запустите сборку по master, убедитесь, что всё прошло успешно и артефакт появился в nexus.
 8. Мигрируйте `build configuration` в репозиторий.
