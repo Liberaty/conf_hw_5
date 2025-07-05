@@ -55,6 +55,11 @@
 ![1.2.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.2.png?raw=true)
 
 3. Сохраните необходимые шаги, запустите первую сборку master.
+
+***Ответ:***
+
+![1.3.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.3.png?raw=true)
+
 4. Поменяйте условия сборки: если сборка по ветке `master`, то должен происходит `mvn clean deploy`, иначе `mvn clean test`.
 5. Для deploy будет необходимо загрузить [settings.xml](./teamcity/settings.xml) в набор конфигураций maven у teamcity, предварительно записав туда креды для подключения к nexus.
 6. В pom.xml необходимо поменять ссылки на репозиторий и nexus.
