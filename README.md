@@ -3,11 +3,32 @@
 ## Подготовка к выполнению
 
 1. В Yandex Cloud создайте новый инстанс (4CPU4RAM) на основе образа `jetbrains/teamcity-server`.
+
+***Ответ:***
+
+![0.1.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/0.1.png?raw=true)
+
 2. Дождитесь запуска teamcity, выполните первоначальную настройку.
+
+***Ответ:***
+
+![0.2.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/0.2.png?raw=true)
+
 3. Создайте ещё один инстанс (2CPU4RAM) на основе образа `jetbrains/teamcity-agent`. Пропишите к нему переменную окружения `SERVER_URL: "http://<teamcity_url>:8111"`.
+
+***Ответ:***
+
+![0.3.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/0.3.png?raw=true)
+
 4. Авторизуйте агент.
 5. Сделайте fork [репозитория](https://github.com/aragastmatb/example-teamcity).
 6. Создайте VM (2CPU4RAM) и запустите [playbook](./infrastructure).
+
+***Ответ:***
+
+![0.6.1.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/0.6.1.png?raw=true)
+
+![0.6.2.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/0.6.2.png?raw=true)
 
 ## Основная часть
 
