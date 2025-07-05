@@ -92,7 +92,17 @@
 ![1.8.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.8.png?raw=true)
 
 9. Создайте отдельную ветку `feature/add_reply` в репозитории.
+
+***Ответ:***
+
+![1.9.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.9.png?raw=true)
+
 10. Напишите новый метод для класса Welcomer: метод должен возвращать произвольную реплику, содержащую слово `hunter`.
+
+***Ответ:***
+
+![1.10.png](https://github.com/Liberaty/conf_hw_5/blob/main/img/1.10.png?raw=true)
+
 11. Дополните тест для нового метода на поиск слова `hunter` в новой реплике.
 12. Сделайте push всех изменений в новую ветку репозитория.
 13. Убедитесь, что сборка самостоятельно запустилась, тесты прошли успешно.
